@@ -1,0 +1,118 @@
+have     0
+be        0
+buy       t+ transfer
+give      t- transfer
+pick      t+ transfer
+grow      +
+spend     --
+find      +
+pay       t-
+plant		t-
+go        +
+play      +
+get       t+ transfer
+cut        --
+work      +
+sell      t- 
+purchase 	t+ (transfer)
+place     t-
+miss      -
+make       ++
+catch     t+ transfer ?
+hold 		+ transfer OK
+serve     -
+earn       +
+borrow     t+ transfer
+save       +
+receive    t+ transfer
+leave     t-
+attend     +
+see        +
+stack       t-
+eat       -- ?
+cost		-
+win         +
+lose 	     -
+do       1
+rent 		t+ ?
+need 	  + transfer ?
+take       t+ transfer
+stand       +
+end 	     + ?
+put         t- transfer
+call        +
+break       --
+shine       +
+store		t-
+begin       0
+divide     -
+come 		+
+fill 	    t-
+clean      	+
+add 		++
+defeat      -
+crack       -
+decide 	+
+split       - ?
+start 		+
+finish    +
+gather      ++
+want	+
+desire	+
+wish 	+
+ask +
+contain 0
+include 0
+weigh	+
+use	--
+walk	+
+produce	++
+rain	+
+run	+
+leak	--
+drink	-- ???
+hike	+
+harvest	t+
+jog	+
+land	+
+collect	++
+pour	t-
+dye	+
+remain	0
+return	t-
+measure	+
+saw	-- ???
+spill	t-
+move	+
+combine	+
+snow	+
+repave	+
+cover	+
+decrease	--
+increase	++
+list	+
+bear	+
+feed	t-
+read	+
+fix	++
+build	++
+ride	+
+own	0
+load	t-
+immigrate	+
+record	+
+sow	t-
+transfer	t-
+live	+
+carry	+
+pave	+
+adopt	+
+drive	+
+score	+
+result	+
+shop	+
+order	+
+require	+
+travel	+
+sprint	+
+tear	-
